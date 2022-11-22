@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 46.2 (44476) - http://www.bohemiancoding.com/sketch -->
+    <title>17-brand-book</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Template-Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Resources-Home" transform="translate(-80.000000, -65.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="17-brand-book" transform="translate(81.000000, 66.000000)">
+                <g id="Group" transform="translate(2.448980, 65.714286)">
+                    <polyline id="Shape" points="45.0738916 5.30612245 74.6938776 5.30612245 74.6938776 0"></polyline>
+                    <polyline id="Shape" points="0 0 0 5.30612245 27.044335 5.30612245"></polyline>
+                </g>
+                <polyline id="Shape" points="29.7959184 65.7142857 0 65.7142857 0 10.2040816 29.7959184 10.2040816"></polyline>
+                <polyline id="Shape" points="74.8408163 10.2040816 80 10.2040816 80 65.7142857 47.755102 65.7142857"></polyline>
+                <path d="M47.755102,10 L64.4897959,10" id="Shape"></path>
+                <path d="M3.67346939,20.6666667 L29.3877551,20.6666667" id="Shape"></path>
+                <path d="M3.67346939,57.3333333 L29.3877551,57.3333333" id="Shape"></path>
+                <path d="M3.67346939,52.6666667 L29.3877551,52.6666667" id="Shape"></path>
+                <path d="M3.67346939,47.3333333 L29.3877551,47.3333333" id="Shape"></path>
+                <path d="M47.755102,42 L76.3265306,42" id="Shape"></path>
+                <path d="M47.755102,47.3333333 L76.3265306,47.3333333" id="Shape"></path>
+                <path d="M47.755102,52.6666667 L76.3265306,52.6666667" id="Shape"></path>
+                <path d="M47.755102,57.3333333 L76.3265306,57.3333333" id="Shape"></path>
+                <g id="Group" transform="translate(33.469388, 0.000000)">
+                    <polyline id="Shape" points="0 68.3870968 0 10.3225806 10.2040816 10.3225806 10.2040816 68.3870968"></polyline>
+                    <path d="M4.66666667,10.3225806 L4.66666667,68.3870968" id="Shape"></path>
+                    <polygon id="Shape" points="5.10204082 80 0 68.3870968 10.2040816 68.3870968"></polygon>
+                    <path d="M0,3.87096774 L0,10.3225806 L10.2040816,10.3225806 L10.2040816,3.87096774 C10.2040816,1.73419355 8.48979592,0 6.37755102,0 L3.82653061,0 C1.71428571,0 0,1.73419355 0,3.87096774 Z" id="Shape"></path>
+                </g>
+                <polygon id="Shape" points="74.6938776 33.4693878 69.5918367 28.3265306 64.4897959 33.4693878 64.4897959 7.75510204 74.6938776 7.75510204"></polygon>
+                <rect id="Rectangle-path" x="5.30612245" y="25.7142857" width="23.2653061" height="16.7346939"></rect>
+                <path d="M47.755102,17.3333333 L60.8163265,17.3333333" id="Shape"></path>
+                <path d="M47.755102,22.6666667 L60.8163265,22.6666667" id="Shape"></path>
+                <path d="M47.755102,28 L60.8163265,28" id="Shape"></path>
+                <path d="M47.755102,37.3333333 L50.2040816,37.3333333" id="Shape"></path>
+                <path d="M53.0612245,37.3333333 L55.5102041,37.3333333" id="Shape"></path>
+                <path d="M57.9591837,37.3333333 L60.4081633,37.3333333" id="Shape"></path>
+                <path d="M3.67346939,15.3333333 L6.12244898,15.3333333" id="Shape"></path>
+                <path d="M8.97959184,15.3333333 L11.4285714,15.3333333" id="Shape"></path>
+                <path d="M14.2857143,15.3333333 L16.7346939,15.3333333" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

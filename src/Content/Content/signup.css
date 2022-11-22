@@ -1,0 +1,174 @@
+﻿
+body {
+    background-color: #f9fafb !important;
+    overflow: hidden scroll !important;
+}
+
+html {
+    background-color: #f9fafb !important;
+}
+
+.cntanerr {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-top: 5%;
+}
+
+.jc-cntr {
+    justify-content: center;
+}
+
+.roww {
+    display: flex;
+    margin: 0 calc((50px)*-1);
+    flex-wrap: wrap;
+}
+
+.colcs {
+    width: 50%;
+    flex: 0 0 50%;
+    padding: 0 15px;
+}
+
+.dv1 {
+    padding-bottom: 48px;
+}
+
+    .dv1 h6 {
+        margin: 0 0 8px;
+        opacity: .35;
+        font-size: 17px;
+        font-weight: 400;
+        letter-spacing: .2px;
+        line-height: 24px;
+        color: #333e63;
+    }
+
+    .dv1 h3 {
+        margin: 0;
+        font-size: 32px;
+        font-weight: 700;
+        letter-spacing: -.8px;
+        line-height: 40px;
+        color: #333e63;
+    }
+
+.dv3 {
+    padding: 56px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dv2 .dv2cstma {
+    cursor: pointer;
+    color: #333e63;
+    text-decoration: none;
+    background-color: transparent;
+    transition: color .2s;
+}
+
+    .dv2 .dv2cstma:hover {
+        color: #54d4f2;
+    }
+
+.dv2 .cstmdv01 {
+    padding: 48px 28px 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+    box-shadow: 0 8px 24px 0 rgb(174 174 187 / 16%), 0 2px 4px 0 rgb(174 174 187 / 24%);
+    transition: box-shadow .25s ease-in-out;
+}
+
+.dv2 .cstmdv01-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.dv2 .cstmdv01-p {
+    margin: 42px 0 0;
+    font-size: 19px;
+    line-height: 27px;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: -.2px;
+}
+
+.dv3 .dv3spn {
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: .176471px;
+    color: #7a829a;
+}
+
+.dv3 .dv3cstma {
+    margin-left: 16px;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: .8125px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333e63;
+    text-decoration: none;
+    transition: opacity .25s ease-in-out;
+}
+
+    .dv3 .dv3cstma:hover {
+        opacity: .85;
+        color: #54d4f2;
+    }
+
+#divLoader {
+    width: 60px;
+    height: 60px;
+    border-radius: 150px;
+    border: 3px solid #333e63;
+    border-top-color: #eee;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -40px;
+    margin-left: -30px;
+    animation: loading 1.2s linear infinite;
+    -webkit-animation: loading 1.2s linear infinite;
+}
+
+@keyframes loading {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+@-webkit-keyframes loading {
+    0% {
+        -webkit-transform: rotate(0deg)
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg)
+    }
+}
+
+@media (max-width: 1439px) {
+    .cntanerr {
+        max-width: 1070px;
+    }
+
+    .colcs {
+        width: 58.3333%;
+        flex: 0 0 58.3333%;
+    }
+
+    .dv1 {
+        margin: 0 -36px;
+    }
+}

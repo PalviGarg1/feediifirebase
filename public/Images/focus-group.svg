@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="62px" viewBox="0 0 64 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 44 (41325) - http://www.bohemiancoding.com/sketch -->
+    <title>02-focus-group</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs/>
+    <g id="(WIP)-Analyze-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Summary" transform="translate(-692.000000, -2458.000000)" stroke="#00A8FF" stroke-width="2">
+            <g id="What-People-Are-Saying" transform="translate(80.000000, 2411.000000)">
+                <g id="02-focus-group" transform="translate(613.000000, 48.000000)">
+                    <g id="Group" transform="translate(4.000000, 28.000000)">
+                        <path d="M14,5.5 C14,9 12.037,12 9,12 C5.963,12 4,9 4,5.5 C4,2 5,0 9,0 C13,0 14,2 14,5.5 Z" id="Shape"/>
+                        <path d="M12,11 L18,15 L18,17 C18,18.657 17,20 16,20 L2,20 C1,20 0,18.657 0,17 L0,15 L6,11" id="Shape"/>
+                    </g>
+                    <path d="M26,50 C26,51.104 25.104,52 24,52 L19,52 L23,60 L7,52 L2,52 C0.895,52 0,51.104 0,50 L0,26 C0,24.896 0.895,24 2,24 L24,24 C25.104,24 26,24.896 26,26 L26,50 Z" id="Shape" stroke-linejoin="round"/>
+                    <g id="Group" transform="translate(40.000000, 18.000000)">
+                        <path d="M14,5.5 C14,9 12.037,12 9,12 C5.963,12 4,9 4,5.5 C4,2 5,0 9,0 C13,0 14,2 14,5.5 Z" id="Shape"/>
+                        <path d="M12,11 L18,15 L18,17 C18,18.657 17,20 16,20 L2,20 C1,20 0,18.657 0,17 L0,15 L6,11" id="Shape"/>
+                    </g>
+                    <path d="M43,14 L60,14 C61.104,14 62,14.896 62,16 L62,40 C62,41.104 61.104,42 60,42 L55,42 L39,50 L43,42 L38,42 C36.895,42 36,41.104 36,40 L36,31" id="Shape" stroke-linejoin="round"/>
+                    <g id="Group" transform="translate(18.000000, 4.000000)">
+                        <path d="M14,5.5 C14,9 12.037,12 9,12 C5.963,12 4,9 4,5.5 C4,2 5,0 9,0 C13,0 14,2 14,5.5 Z" id="Shape"/>
+                        <polyline id="Shape" points="0 17 0 15 6 11"/>
+                        <path d="M12,11 L18,15 L18,17 C18,18.657 17,20 16,20 L11,20" id="Shape"/>
+                    </g>
+                    <path d="M14,21 L14,2 C14,0.895 14.895,0 16,0 L38,0 C39.104,0 40,0.895 40,2 L40,26 C40,27.104 39.104,28 38,28 L33,28 L29.001,34.001" id="Shape" stroke-linejoin="round"/>
+                    <path d="M38,56 L40,56" id="Shape" stroke-linejoin="round"/>
+                    <path d="M34,56 L36,56" id="Shape" stroke-linejoin="round"/>
+                    <path d="M30,56 L32,56" id="Shape" stroke-linejoin="round"/>
+                    <path d="M42,56 L44,56" id="Shape" stroke-linejoin="round"/>
+                </g>
+            </g>
+        </g>
+    </g>
+<style xmlns="" type="text/css" id="igtranslator-color"/></svg>

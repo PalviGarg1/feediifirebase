@@ -1,0 +1,216 @@
+﻿
+body {
+    background-color: #f9fafb !important;
+    overflow: hidden scroll !important;
+}
+
+html {
+    background-color: #f9fafb !important;
+}
+
+#login#login#login#login#login#login#login#login {
+    margin-top: 7% !important;
+    padding-bottom: 0 !important;
+}
+
+.sgndv1 {
+    background: #fff;
+}
+
+.sgndv2 {
+    background-image: -o-linear-gradient(226deg, #3b3f63, #2f3350);
+    background-image: linear-gradient(224deg, #3b3f63, #2f3350);
+    padding: 0 !important;
+}
+
+.sgndv1-1 {
+    padding: 50px 80px;
+}
+
+    .sgndv1-1 img {
+        max-width: 100%;
+        width: 180px;
+        height: auto;
+        margin-bottom: 24px;
+    }
+
+    .sgndv1-1 h2 {
+        font-size: 36px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.1;
+        letter-spacing: -1.4px;
+        margin: 0;
+        padding-bottom: 21px;
+        color: #333e63;
+    }
+
+    .sgndv1-1 p {
+        font-size: 18px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.52;
+        letter-spacing: -0.2px;
+        margin: 0;
+        padding: 0;
+    }
+
+.sgndv1-2 {
+    padding-top: 20px;
+}
+
+    .sgndv1-2 p {
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.71;
+        letter-spacing: 0.16px;
+        opacity: 0.35;
+    }
+
+.sgndv1-2a {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    color: #ff5745 !important;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.sgndv1-2a:hover {
+    opacity: 0.7;
+}
+
+.sgndv2-1 {
+    padding: 60px 100px;
+    height: 100%;
+}
+
+.mbl-inp.mbl-inp {
+    box-shadow: none !important;
+}
+
+.sgndv2-3 {
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    font-stretch: normal;
+    line-height: 1.31;
+    letter-spacing: -0.8px;
+    margin: 0;
+    padding-bottom: 30px;
+    color: #fff;
+}
+
+.mtb-4p {
+    margin: 4% 0;
+}
+
+.sgndv-btncd {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding-top: 38px;
+}
+
+    .sgndv-btncd button.kckh-btn {
+        max-width: 40%;
+        box-shadow: none !important;
+        width: 40%;
+    }
+
+.sgndv-btncda {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    cursor: pointer;
+    letter-spacing: 0.7px;
+    color: #54d4f2 !important;
+    text-transform: uppercase;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.sgndv-btncda:hover {
+    opacity: 0.7;
+}
+
+.kckh4[errr] .mbl-inp:focus {
+    background-color: #fff !important;
+    color: #333e63;
+}
+
+.errtxtttt.errtxtttt {
+    color: #eb1337;
+    font-size: 16px;
+    display: none;
+}
+
+.mbl-inp:valid ~ .kckh4-svg g.stroke {
+    stroke: #2fc991 !important;
+}
+
+#divLoader {
+    width: 60px;
+    height: 60px;
+    border-radius: 150px;
+    border: 3px solid #333e63;
+    border-top-color: #eee;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -40px;
+    margin-left: -30px;
+    animation: loading 1.2s linear infinite;
+    -webkit-animation: loading 1.2s linear infinite;
+}
+
+@keyframes loading {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+@-webkit-keyframes loading {
+    0% {
+        -webkit-transform: rotate(0deg)
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg)
+    }
+}
+
+@media (min-width: 1200px) {
+    .container.container {
+        max-width: 1000px;
+    }
+}

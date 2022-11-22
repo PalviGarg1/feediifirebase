@@ -1,0 +1,174 @@
+.cstmpdp {
+    padding: 1.2rem 12.8rem 0 11.9rem !important;
+}
+
+.csdv1.csdv1.csdv1.csdv1 {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid rgba(228,231,235,0.62);
+    box-shadow: 0 4px 20px 0 rgb(174 174 186 / 16%) !important;
+}
+
+#srvydepdv .btn-lg {
+    border-radius: 2px;
+    margin: 0 5px;
+}
+
+#srvydepdv .table {
+    margin-bottom: 0;
+}
+
+#srvydepdv .pie {
+    width: 500px;
+  }
+  
+  #srvydepdv .pie .pie-holder {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto 0 auto;
+    overflow: hidden;
+  }
+  
+  #srvydepdv .pie .pie-holder span {
+    position: absolute;
+    top: 55%;
+    transform: translateY(-100%);
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: #8A133B;
+    font-size: 5rem;
+    font-family: arial;
+  }
+
+  #srvydepdv .cstmclrspnncstm {
+    margin-top: 68%;
+    font-size: 70px;
+    font-weight: 400;
+}
+
+#srvydepdv .btn-group-sm>.btn, .btn-sm {
+    border-radius: 2px;
+}
+
+#srvydepdv .accordion-button {
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 14px 0 10px;
+}
+
+.m-15-0 {
+    margin : 15px 0;
+}
+
+.p-0-20px {
+    padding: 0 20px !important;
+}
+
+.mt-15px {
+    margin-top: 15px !important;
+}
+
+.cstmclrspnn {
+    color: #a4a8ab !important;
+}
+
+.mb-15px {
+    margin-bottom: 15px !important;
+}
+
+.cstsbx1 {
+    padding: 10px 0;
+    background: #f9fafb;
+}
+
+.clr-drkbl {
+    color: rgba(51,62,99,0.86);
+}
+
+.fs-20px {
+    font-size: 20px !important;
+}
+
+.cstmbrdrr {
+    border: 1px solid rgba(228,231,235,0.62) !important;
+}
+
+.cst-padding {
+    padding: 1rem 2rem;
+}
+
+.ahover:hover {
+    opacity: 0.8;
+    text-decoration: underline !important;
+}
+
+.progress, .progress-bar {
+    border-radius: 0 !important;
+}
+
+a.clpsdsa[aria-expanded="true"] .fachvrndn {
+    transform: rotate(180deg);
+}
+
+.clrbluu {
+    color: rgba(18,62,108,0.7) !important;
+}
+
+.clrdrkblu {
+    color: #333e63;
+}
+
+.cstmgrnbtnn.cstmgrnbtnn {
+    background-color: #16cb6a !important;
+    color: #fff !important;
+    cursor: pointer;
+}
+
+.cstmgrnbtnn:hover {
+    opacity: 0.8;
+}
+
+.cstm--bxx {
+    justify-content: center !important;
+}
+
+#divLoader {
+    width: 60px;
+    height: 60px;
+    border-radius: 150px;
+    border: 3px solid #333e63;
+    border-top-color: #eee;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 51.4%;
+    margin-top: -40px;
+    margin-left: -40px;
+    animation: loading 1.2s linear infinite;
+    -webkit-animation: loading 1.2s linear infinite;
+}
+
+@keyframes loading {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+@-webkit-keyframes loading {
+    0% {
+        -webkit-transform: rotate(0deg)
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg)
+    }
+}

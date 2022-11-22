@@ -1,0 +1,261 @@
+
+@font-face {
+    font-family: "coroflot_icons";
+    src: url("/stylesheets/webfonts/coroflot_icons.eot");
+    src: url("/stylesheets/webfonts/coroflot_icons.eot?#iefix") format("embedded-opentype"),url("/stylesheets/webfonts/coroflot_icons.woff") format("woff"),url("/stylesheets/webfonts/coroflot_icons.ttf") format("truetype"),url("/stylesheets/webfonts/coroflot_icons.svg#coroflot_icons") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "campton";
+    src: url("/stylesheets/webfonts/Campton-Book.eot");
+    src: url("/stylesheets/webfonts/Campton-Book.eot?#iefix") format("embedded-opentype"),url("/stylesheets/webfonts/Campton-Book.woff") format("woff"),url("/stylesheets/webfonts/Campton-Book.ttf") format("truetype"),url("/stylesheets/webfonts/Campton-Book.svg#campton") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+
+
+@font-face {
+    font-family: "campton";
+    src: url("/stylesheets/webfonts/Campton-Medium.eot");
+    src: url("/stylesheets/webfonts/Campton-Medium.eot?#iefix") format("embedded-opentype"),url("/stylesheets/webfonts/Campton-Medium.woff") format("woff"),url("/stylesheets/webfonts/Campton-Medium.ttf") format("truetype"),url("/stylesheets/webfonts/Campton-Medium.svg#campton") format("svg");
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    min-height: 100%;
+}
+
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+@-ms-viewport {
+    width: device-width;
+}
+
+@-webkit-keyframes nudge {
+    0%, 50%, 100% {
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
+
+    25% {
+        -webkit-transform: translate(20px, 0);
+        -moz-transform: translate(20px, 0);
+        -ms-transform: translate(20px, 0);
+        -o-transform: translate(20px, 0);
+        transform: translate(20px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate(-20px, 0);
+        -moz-transform: translate(-20px, 0);
+        -ms-transform: translate(-20px, 0);
+        -o-transform: translate(-20px, 0);
+        transform: translate(-20px, 0);
+    }
+}
+
+@-moz-keyframes nudge {
+    0%, 50%, 100% {
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
+
+    25% {
+        -webkit-transform: translate(20px, 0);
+        -moz-transform: translate(20px, 0);
+        -ms-transform: translate(20px, 0);
+        -o-transform: translate(20px, 0);
+        transform: translate(20px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate(-20px, 0);
+        -moz-transform: translate(-20px, 0);
+        -ms-transform: translate(-20px, 0);
+        -o-transform: translate(-20px, 0);
+        transform: translate(-20px, 0);
+    }
+}
+
+@-o-keyframes nudge {
+    0%, 50%, 100% {
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
+
+    25% {
+        -webkit-transform: translate(20px, 0);
+        -moz-transform: translate(20px, 0);
+        -ms-transform: translate(20px, 0);
+        -o-transform: translate(20px, 0);
+        transform: translate(20px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate(-20px, 0);
+        -moz-transform: translate(-20px, 0);
+        -ms-transform: translate(-20px, 0);
+        -o-transform: translate(-20px, 0);
+        transform: translate(-20px, 0);
+    }
+}
+
+@-ms-keyframes nudge {
+    0%, 50%, 100% {
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
+
+    25% {
+        -webkit-transform: translate(20px, 0);
+        -moz-transform: translate(20px, 0);
+        -ms-transform: translate(20px, 0);
+        -o-transform: translate(20px, 0);
+        transform: translate(20px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate(-20px, 0);
+        -moz-transform: translate(-20px, 0);
+        -ms-transform: translate(-20px, 0);
+        -o-transform: translate(-20px, 0);
+        transform: translate(-20px, 0);
+    }
+}
+
+@keyframes nudge {
+    0%, 50%, 100% {
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
+
+    25% {
+        -webkit-transform: translate(20px, 0);
+        -moz-transform: translate(20px, 0);
+        -ms-transform: translate(20px, 0);
+        -o-transform: translate(20px, 0);
+        transform: translate(20px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate(-20px, 0);
+        -moz-transform: translate(-20px, 0);
+        -ms-transform: translate(-20px, 0);
+        -o-transform: translate(-20px, 0);
+        transform: translate(-20px, 0);
+    }
+}
+
+
+body {
+    background: #fafafa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    overflow-x: hidden;
+    font-family: campton;
+}
+
+h2 {
+    color: #363636;
+    font-weight: normal;
+    font-size: 1.5em;
+    line-height: 24px;
+    margin: 20px auto 20px auto;
+}
+
+h3 {
+    font-weight: normal;
+    color: #7e8489;
+    font-size: 18px;
+    line-height: 31px;
+    max-width: 630px;
+    margin: 0 auto 40px auto;
+}
+
+h4 {
+    font-family: campton;
+    font-weight: normal;
+    color: #999999;
+    font-size: 0.75em;
+    margin: 10px auto 20px auto;
+}
+
+.eyes {
+    width: 300px;
+    padding: 32vh 0 4vh;
+}
+
+
+.eye-animation {
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    margin-left: -173px;
+}
+
+.outereyes {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.pupils {
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-animation: nudge 7s infinite;
+    -moz-animation: nudge 7s infinite;
+    -o-animation: nudge 7s infinite;
+    animation: nudge 7s infinite;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+}
+
+.container {
+    position: relative;
+    padding-top: 200px;
+    margin-top: 27vh;
+}
+
+.logo {
+    font-family: coroflot_icons;
+    color: #ff5400;
+    font-size: 30px;
+    text-decoration: none;
+    margin-bottom: 30px;
+    display: block;
+}
